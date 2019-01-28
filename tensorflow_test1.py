@@ -139,11 +139,11 @@ def maybe_pickle(data_folders, min_num_images_per_class, force=False):
 # train_datasets = maybe_pickle(train_folders, 45000)
 # test_datasets = maybe_pickle(test_folders, 1800)
 
-train_datasets = ['./tensorflow_test1_image/notMNIST_large/A.pickle', './tensorflow_test1_image/notMNIST_large/B.pickle', 
+train_datasets = ['./tensorflow_test1_image/notMNIST_large/A.pickle', './tensorflow_test1_image/notMNIST_large/B.pickle',
 './tensorflow_test1_image/notMNIST_large/C.pickle', './tensorflow_test1_image/notMNIST_large/D.pickle', './tensorflow_test1_image/notMNIST_large/E.pickle',
 './tensorflow_test1_image/notMNIST_large/F.pickle', './tensorflow_test1_image/notMNIST_large/G.pickle', './tensorflow_test1_image/notMNIST_large/H.pickle',
 './tensorflow_test1_image/notMNIST_large/I.pickle', './tensorflow_test1_image/notMNIST_large/J.pickle']
-test_datasets = ['./tensorflow_test1_image/notMNIST_small/A.pickle', './tensorflow_test1_image/notMNIST_small/B.pickle', 
+test_datasets = ['./tensorflow_test1_image/notMNIST_small/A.pickle', './tensorflow_test1_image/notMNIST_small/B.pickle',
 './tensorflow_test1_image/notMNIST_small/C.pickle', './tensorflow_test1_image/notMNIST_small/D.pickle', './tensorflow_test1_image/notMNIST_small/E.pickle',
 './tensorflow_test1_image/notMNIST_small/F.pickle', './tensorflow_test1_image/notMNIST_small/G.pickle', './tensorflow_test1_image/notMNIST_small/H.pickle',
 './tensorflow_test1_image/notMNIST_small/I.pickle', './tensorflow_test1_image/notMNIST_small/J.pickle']

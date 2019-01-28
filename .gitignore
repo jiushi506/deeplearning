@@ -1,5 +1,7 @@
+tensorflow_test1_image/
 tensorflow_test1_image/notMNIST_large
 tensorflow_test1_image/notMNIST_large.tar.gz
 tensorflow_test1_image/notMNIST_small
 tensorflow_test1_image/notMNIST_small.tar.gz
-.idea
+.idea/
+venv/
